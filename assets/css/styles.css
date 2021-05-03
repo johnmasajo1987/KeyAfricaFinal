@@ -318,8 +318,8 @@ header .navbar {
 	background-image: none;
 }
 .navbar .navbar-toggler {
-	border-color: #f8f0fb;
-	background-color: #f8f0fb;	
+	/* border-color: #f8f0fb; */
+	background-color: transparent;	
 	height: 36px;
 	outline: none;
 	border-radius: 0px;
@@ -329,7 +329,7 @@ header .navbar {
 }
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #a4c639;
+	color: #ffc601;
 	font-size: 18px;
 	line-height: 26px;
 	font-family: 'FontAwesome';
@@ -1526,7 +1526,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-link.current,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #a4c639!important;
+		color: #ffc601!important;
 		border-bottom: none!important;
 	}
 }
