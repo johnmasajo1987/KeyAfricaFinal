@@ -443,7 +443,7 @@ ul.slick-dots {
 }
 
 .Modern-Slider .text-content {
-	text-align: left;
+	text-align: justify;
   	width: 75%;
   	position: absolute;
   	top: 50%;
@@ -479,6 +479,7 @@ ul.slick-dots {
 	font-weight: 400;
 	line-height: 30px;
 	margin-bottom: 40px;
+	text-align: justify;
 }
 
 .Modern-Slider .item a {
@@ -1175,6 +1176,62 @@ footer .contact-form button.filled-button:hover {
 }
 
 .page-heading-luther span {
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #f8f0fb;
+	display: block;
+}
+
+/* Page Heading Others */
+
+.page-heading-other {
+	text-align: center;
+	background-image: url(../images/page-heading-otherservices.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #f8f0fb;
+}
+
+.page-heading-other h1 {
+	text-transform: capitalize;
+	font-size: 36px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-bottom: 18px;
+}
+
+.page-heading-other span {
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #f8f0fb;
+	display: block;
+}
+
+/* Page Heading Others */
+
+.page-heading-contact {
+	text-align: center;
+	background-image: url(../images/page-heading-contact.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #f8f0fb;
+}
+
+.page-heading-contact h1 {
+	text-transform: capitalize;
+	font-size: 36px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-bottom: 18px;
+}
+
+.page-heading-contact span {
 	font-size: 15px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
