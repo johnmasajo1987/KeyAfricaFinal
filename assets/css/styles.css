@@ -400,6 +400,22 @@ header .navbar {
 	background-image: url(../images/Slider-Home3.jpg);
 }
 
+.Modern-Slider .item-4 .img-fill {
+	background-image: url(../images/Slider-Home4.jpg);
+}
+
+.Modern-Slider .item-5 .img-fill {
+	background-image: url(../images/Slider-Home5.jpg);
+}
+
+.Modern-Slider .item-6 .img-fill {
+	background-image: url(../images/Slider-Home6.jpg);
+}
+
+.Modern-Slider .item-7 .img-fill {
+	background-image: url(../images/Slider-Home7.jpg);
+}
+
 .Modern-Slider .NextArrow{
   position:absolute;
   top:50%;
@@ -451,6 +467,19 @@ ul.slick-dots {
   	transform: translate(-50%, -50%);
 }
 
+.Modern-Slider .text-content-2 {
+	text-align: justify;
+  	/* width: 75%; */
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+	padding: 40px 40px 40px 40px;
+  	transform: translate(-50%, -50%);
+	background: #FFF2C2;
+	/* opacity: 30%; */
+}
+
+
 .Modern-Slider .item h6 {
   margin-bottom: 15px;
   font-size: 22px;
@@ -478,6 +507,16 @@ ul.slick-dots {
 	font-size: 15px;
 	font-weight: 400;
 	line-height: 30px;
+	margin-bottom: 40px;
+	text-align: justify;
+}
+
+.Modern-Slider .item h5 {
+	max-width: 570px;
+	color: #004483;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 45px;
 	margin-bottom: 40px;
 	text-align: justify;
 }
@@ -917,9 +956,9 @@ a.border-button-about:hover {
 }
 
 .partners {
-	margin-top: 140px;
+	/* margin-top: 140px; */
 	background-color: #f7f7f7;
-	padding: 60px 0px;
+	padding: 80px 0px 40px 0px;
 }
 
 .partners .owl-item {
