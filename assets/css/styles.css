@@ -730,6 +730,7 @@ a.border-button-about:hover {
 	padding-top: 45px;
 	padding-bottom: 45px;
 	background-color: #FFFBEB;
+	/* background-color: #d6ebff; */
 }
 
 .more-info .left-image img {
@@ -738,7 +739,8 @@ a.border-button-about:hover {
 }
 
 .more-info .more-info-content {
-	background-color: #f7f7f7;
+	/* background-color: #f7f7f7; */
+	background-color: #d6ebff;
 }
 
 .about-info .more-info-content {
