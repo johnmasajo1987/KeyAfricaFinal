@@ -468,15 +468,14 @@ ul.slick-dots {
 }
 
 .Modern-Slider .text-content-2 {
-	text-align: justify;
-  	/* width: 75%; */
+	text-align: left;
+  	width: 75%;
   	position: absolute;
   	top: 50%;
   	left: 50%;
-	padding: 40px 40px 40px 40px;
+	padding: 30px 30px 30px 30px;
   	transform: translate(-50%, -50%);
 	background: #FFF2C2;
-	/* opacity: 30%; */
 }
 
 
@@ -512,13 +511,14 @@ ul.slick-dots {
 }
 
 .Modern-Slider .item h5 {
-	max-width: 570px;
+	/* max-width: 570px; */
+	max-width: auto;
 	color: #004483;
-	font-size: 36px;
+	font-size: 22px;
 	font-weight: 400;
 	line-height: 45px;
 	margin-bottom: 40px;
-	text-align: justify;
+	text-align: left;
 }
 
 .Modern-Slider .item a {
