@@ -518,7 +518,7 @@ ul.slick-dots {
 	font-weight: 400;
 	line-height: 45px;
 	margin-bottom: 40px;
-	text-align: left;
+	text-align: justify;
 }
 
 .Modern-Slider .item a {
@@ -595,7 +595,7 @@ ul.slick-dots {
 }
 
 .request-form-about h4 {
-	font-size: 22px;
+	font-size: 29px;
 	font-weight: 600;
 }
 
@@ -1465,6 +1465,11 @@ footer .contact-form button.filled-button:hover {
 	.sub-header {
 		display: none;
 	}
+
+	.Modern-Slider .item-1 .img-fill {
+		background-image: url(../images/Slider-Home5.jpg);
+	}
+
 	.Modern-Slider .item h6 {
 	  margin-bottom: 15px;
 	  font-size: 18px;
